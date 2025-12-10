@@ -8,7 +8,7 @@ The work is done in a single Jupyter notebook and follows a full ML workflow: da
 
 ## Project overview
 
-- **Goal**: predict `LapTime_sec` (lap time in seconds) for each lap.
+- **Goal**: to predict `LapTime_sec` (lap time in seconds) for each lap.
 - **Type of task**: supervised regression on tabular data.
 - **Main features**: tyre life and compound, stint, lap number, race position, weather (air/track temperature, pressure, humidity, wind), driver and team.
 
